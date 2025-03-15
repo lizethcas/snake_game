@@ -52,7 +52,7 @@ python main.py
 
 ## 🧩 ESTRUCTURA DEL PROYECTO
 snake-game-extreme/
-│
+```│
 ├── main.py # Punto de entrada principal del juego
 ├── config.py # Configuraciones y constantes
 ├── menu.py # Sistema de menú navegable
@@ -60,7 +60,7 @@ snake-game-extreme/
 ├── snake.py # Lógica de la serpiente
 ├── elementos.py # Generación de comida y enemigos
 └── README.md # Este archivo
-
+```
 
 ## 🎮 MECÁNICAS DE JUEGO
 
